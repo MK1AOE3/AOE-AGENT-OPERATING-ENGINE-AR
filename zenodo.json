@@ -1,13 +1,12 @@
 {
-  "title": "AOE3 — Agent Operating Engine: deterministic execution governance for autonomous AI agents",
+  "title": "AOE3 — محرك التشغيل الوكيل: حوكمة تنفيذ حتمية للوكلاء الذكيين المستقلين",
   "creators": [
     {
       "name": "Khiri, Musab Badewi Mustafa",
       "affiliation": "Mk AOE Three For Technology Solutions, Dubai, UAE"
     }
   ],
-  "description": "AOE3 documents an integrity and reproducibility mechanism for agentic AI: every action carries a recorded, independently verifiable authorization — authority before execution, independent evidence after execution. UNKNOWN ≠ PASS.",
+  "description": "يوثق AOE3 آلية سلامة وقابلية إعادة إنتاج للذكاء الاصطناعي الوكيل: كل فعل يحمل تفويضاً مسجلاً قابلاً للتحقق المستقل — سلطة قبل التنفيذ، ودليل مستقل بعده. UNKNOWN ≠ PASS.",
   "license": "CC-BY-4.0",
-  "keywords": ["agent authority infrastructure", "execution governance", "AI agent authorization", "independent evidence", "AOE3"],
-  "related_identifiers": []
+  "keywords": ["بنية سلطة الوكلاء", "حوكمة التنفيذ", "تفويض الوكلاء", "دليل مستقل", "AOE3"]
 }
